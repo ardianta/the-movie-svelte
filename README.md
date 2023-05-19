@@ -6,10 +6,15 @@ The MovieDB API in Svelte.
 
 - Auth using TMDB
 - List Movies: Now Showing, Upcoming
+- Movie Detail *(coming soon)*
+- User Profile *(coming soon)*
+- Add Reviews *(coming soon)*
+- Add Watch List *(coming soon)*
+- Search Movie *(coming soon)*
 
-More features will add soon..
+More features will be add soon..
 
-## Dev
+## Development
 
 Install all dependencies:
 
